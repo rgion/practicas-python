@@ -4,6 +4,8 @@ import calendar
 print ("=======================================")
 print ("=       programa for vs while         =")
 print ("=======================================")
+print ("este programa pide al usuario qué elemento quiere que busquemos")
+print ("y cuando lo encuentre que lo sustituya por otro elemento")
 lista1=[]
 lista2=[]
 numelem=int(input("dime el número de elementos que quieres que tenga la \
