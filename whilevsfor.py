@@ -1,4 +1,5 @@
 from datetime import datetime, date, time, timedelta
+
 import calendar
 print ("=======================================")
 print ("=       programa for vs while         =")
@@ -34,7 +35,7 @@ print ("el bucle while ha tardado: ",resultado2)
 """conclusión: un WHILE se puede escribir en forma de FOR, y viceversa, pero:
 1)cuando sabemos de antemano que lo vamos a recorrer un número N determinado
 de veces (aunque estas N veces puede que sea variable en cada ejecución, pero sabemos
-que hay N iteraciones, realizamos un FOR
+que hay N iteraciones, realizamos un FOR)
 2)cuando NO sabemos de antemano las iteraciones que vamos a realizar, ya que éstas
 depende de una condición se usa un WHILE
 3)si un problema lo debemos resolver con un FOR y lo hacemos con un WHILE, el coste
